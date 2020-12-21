@@ -20,5 +20,5 @@ def getImagem():
 
 soma(5, 4)
 divide(15, 5)
-subtrai(10, 4)
+subtrai(10, 1)
 multiplicacao(3, 3)
