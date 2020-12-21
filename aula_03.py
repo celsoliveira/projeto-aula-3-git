@@ -18,7 +18,7 @@ def getXLS():
 def getImagem():
     print("funcao que exibe imagem")    
 
-soma(5, 4)
+soma(10, 5)
 divide(15, 5)
 subtrai(10, 1)
 multiplicacao(3, 3)
